@@ -1,0 +1,11 @@
+.container {
+    border-radius: 30px;
+    border: 1px solid white;
+    padding: 25px;
+    font: 1rem;
+    transition: ease;
+}
+
+.container:hover {
+    border: 2px solid white;
+}
